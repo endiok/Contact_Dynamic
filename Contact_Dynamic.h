@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-enum Option//枚举增强代码可读性
+enum Option
 {
 	EXIT,
 	ADD,
